@@ -4,8 +4,12 @@ Good luck
 
 To clone the repository in the Termux/Linux terminal, write these commands:
 
+--------------------------------------------------------------------------------------------------------
+
 apt update && apt upgrade
 
 git clone https://github.com/kefir4ekk/RussianRouletteLite.git
+
+--------------------------------------------------------------------------------------------------------
 
 Warning: The author is not responsible for the consenquences, you do it at your own risk
